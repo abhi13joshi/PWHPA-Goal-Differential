@@ -1,7 +1,6 @@
 library(tidyverse)
 library(dplyr)
 library(ggplot2)
-setwd('C:/Users/abhi1/OneDrive/Documents/NCSUSAC')
 
 data <- read_csv("Clean PWHPA Secret Dream Gap Tour - Sportlogiq - PWHPA Secret Dream Gap Tour.csv")
 colors <- read_csv("PWHPA Team Colors.csv")

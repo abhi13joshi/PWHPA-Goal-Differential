@@ -5,3 +5,4 @@ Diverging bar chart that displays goal differential of teams that competed in th
 Contributors:
 - Abhi Joshi
 - Pat Whalter
+

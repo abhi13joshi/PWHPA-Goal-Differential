@@ -6,3 +6,4 @@ Contributors:
 - Abhi Joshi
 - Pat Whalter
 
+<img src="./Goal Differential PWHPA 2021 Diverging Bar Chart.png">
